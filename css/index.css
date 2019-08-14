@@ -1,0 +1,24 @@
+main .card img {
+    display: block;
+    width: 100%;
+}
+
+main .card-body button {
+    display: flex;
+    align-items: ;
+}
+
+@media (min-width: 500px) {
+    main .row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 3px;
+    }
+}
+
+@media (min-width: 660px) {
+    main .row {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
