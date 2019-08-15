@@ -1,4 +1,4 @@
-main .card img {
+//*main .card img {
     display: block;
     width: 100%;
 }
@@ -6,7 +6,7 @@ main .card img {
 main .card-body button {
     display: flex;
     align-items: ;
-}
+}*//
 
 @media (min-width: 500px) {
     main .row {
@@ -22,3 +22,12 @@ main .card-body button {
     }
 }
 
+.modal-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card product button .staticButton {
+    display: flex;
+    justify-content: space-around;
+}

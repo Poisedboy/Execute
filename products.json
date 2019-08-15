@@ -1,0 +1,65 @@
+    [
+        {
+            "id": "1",
+            "title":"Bed With Kitty Face",
+            "image": "pcat1.png",
+            "description": "Bed For Cats",
+            "price": 19.99
+        },
+        {
+            "id": "2",
+            "title":"Bolster Cat Bed",
+            "image": "pcat2.png",
+            "description": "Bed For Cats",
+            "price": 19.99
+        },
+        {
+            "id": "3",
+            "title":"Donut Cat Bed",
+            "image": "pcat3.jpg",
+            "description": "Bed For Cats",
+            "price": 19.99
+        },
+        {
+            "id": "4",
+            "title":"Kitty Cat Bed Hut",
+            "image": "pcat4.jpg",
+            "description": "Bed For Cats",
+            "price": 46.95
+        },
+        {
+            "id": "5",
+            "title":"Cat Bed Hut",
+            "image": "pcat5.jpg",
+            "description": "Bed For Cats",
+            "price": 45.99
+        },
+        {
+            "id": "6",
+            "title":"Clubhouse Cat Bed",
+            "image": "pcat6.jpg",
+            "description": "Bed For Cats",
+            "price": 49.63
+        },
+        {
+            "id": "7",
+            "title":"Cat Scratcher",
+            "image": "pcat7.png",
+            "description": "Bed For Cats",
+            "price": 59.91
+        },
+        {
+            "id": "8",
+            "title":"Cat Post",
+            "image": "pcat8.jpg",
+            "description": "Bed For Cats",
+            "price": 40.99
+        },
+        {
+            "id": "9",
+            "title":"Grande Cat Tree",
+            "image": "pcat9.jpg",
+            "description": "Bed For Cats",
+            "price": 49.99
+        }
+    ]
