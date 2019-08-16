@@ -25,12 +25,12 @@ class ProductList {
                                         <div class="card-body">
                                             <h4 class="card-title">${product.title}</h4>
                                             <p class="card-text">${product.description}</p>
-                                            <button class="staticButton" data-toggle="modal"
+                                            <button class="btn btn-info" data-toggle="modal"
                                             data-target="#productInfoModal" data-id="${
                                                 product.id
-                                            }">Info
+                                            }">View
                                             </button>
-                                            <button class="staticButton" data-id="${
+                                            <button class="btn btn-primary buy" data-id="${
                                                 product.id
                                             }">
                                             ${product.price} - Buy

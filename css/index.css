@@ -22,12 +22,80 @@ main .card-body button {
     }
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+@media (min-width: 500px) {
+    .navigation {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.link p {
+    display: flex;
+    justify-content:
+}
+
+.links img {
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+
+main .discount {
+    min-height: 300px;
+    background-image: url(../img/discount.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .modal-footer {
     display: flex;
     justify-content: space-around;
 }
 
-.card product button .staticButton {
+footer .navigation {
+    min-height: 400px;
+    background-image: url(../img/catsgr.jpg);
+    background-size: cover;
+    background-position: center;
     display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+footer #terms-link {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: #EAEAEA;
+}
+
+footer .discribe {
+    width: 50px;
+}
+
+main .terms-button a {
+    text-decoration: none;
+}
+
+main .terms-button {
+    display: flex;
+    flex-direction: row;
     justify-content: space-around;
+}
+
+main #mid-button, #midd-button, #bottom-button  {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
 }
